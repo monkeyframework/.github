@@ -14,7 +14,7 @@
 
 Join our official Discord server to ask questions, suggest features, and follow development updates:
 
-:point_right: [**https://discord.gg/vWxsyqHt**](https://discord.gg/vWxsyqHt)
+:point_right: [**https://discord.gg/vWxsyqHt**](https://discord.gg/BcCGSpgSjB)
 
 ---
 
